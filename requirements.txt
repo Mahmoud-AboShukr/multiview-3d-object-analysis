@@ -1,0 +1,13 @@
+numpy
+matplotlib
+pillow
+trimesh
+pyrender
+PyOpenGL
+pyglet==1.5.27
+torch
+torchvision
+scikit-learn
+tqdm
+jupyter
+notebook
