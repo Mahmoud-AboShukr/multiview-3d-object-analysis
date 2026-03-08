@@ -25,7 +25,7 @@ Beyond classification, the project extracts learned descriptors and evaluates th
 
 ```text
 .
-├── 3D_data_analysis.ipynb
+├── multiview-3d-object-analysis.ipynb
 ├── README.md
 ├── requirements.txt
 ├── ModelNet10/
